@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 3.8em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
@@ -42,14 +42,9 @@ h2 {
 h3 {
   font-weight: normal;
   letter-spacing: .3em;
-  margin-bottom: 18px;
-  line-height: 1em;
-}
-
-h4 {
-  font-weight: normal;
+  margin-bottom: 18em
   font-size: .7em;
-  letter-spacing: .4em;
+  letter-spacing: .3em;
   margin-bottom: 9px;
   line-height: 1em;
 }
